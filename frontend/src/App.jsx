@@ -7,7 +7,7 @@ function App() {
     <>
      <h1>Welcome to Galleria Fusion</h1>
      <h5>By</h5>
-     <h2>Thakur Abbhay Pratap Singh</h2>
+     <h2>Thakur Abbhay Pratap Singh and Miti</h2>
     </>
   )
 }
